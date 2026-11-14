@@ -1,6 +1,6 @@
 # TDE — Programação Concorrente
 
-**Vídeo de Apresentação (YouTube):** [INSERIR LINK DO VÍDEO AQUI]
+**Vídeo de Apresentação (YouTube):** https://youtu.be/Kl0A0woB-Zs?si=I2EYWcqKw38lDXKf
 
 * **Integrante:** Camila P. F. Felix (Trabalho Individual)
 * **Linguagem utilizada:** Python 3.10+
